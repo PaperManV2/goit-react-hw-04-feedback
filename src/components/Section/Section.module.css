@@ -1,0 +1,19 @@
+.SectionContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-bottom: 50px;
+  background-color: #c4c4c4cc;
+  width: 100%;
+  height: 250px;
+  border: 2px solid #a3a3a3cc;
+  border-radius: 25px;
+}
+
+.title {
+  margin: 25px 0 0 15px;
+}
+
+.children {
+  margin: 15px 0 0 15px;
+}
